@@ -19,11 +19,11 @@ httrack http://symonmk.com/ -O symonmk
 In github, I created an "organisation": symonmuthemba as a necessary hack to acquire the domain name symonmuthemba.github.io(This is more appropriate for going through his stuff). The pages are static.
 
 ## A bit about Symon
-Well, Symon was a cool dude. We first met in Primary School eons ago. In our grown up years, We talked about alot of things. He was one of the few dudes I enjoyed to talk about the state of engineering and software; and building a career around it. For me, "let's get technical", was one of my favourites things about him- he could get "technical" and make you enjoy it. His love for technology led him to become a broadcast engineer. He would talk about wireless technology and some really cool things about radio technology. We were supposed to meet up and talk about some really cool recent developments around codecs(where it is now possible to barely sample speech audio at 720bps[1]). I wanted to convince him to give a talk about his work at the NAILUG[2] about his work in the near future. Unfortunately, this could not happen.
+Well, Symon was a cool dude. We first met in Primary School eons ago. In our grown up years, We talked about alot of things. He was one of the few dudes I enjoyed to talk about the state of engineering and software; and building a career around it. For me, "let's get technical", was one of my favourites things about him- he could get "technical" and make you enjoy it. His love for technology led him to become a broadcast engineer. He would talk about wireless technology and some really cool things about radio technology. We were supposed to meet up and talk about some really cool recent developments around codecs(where it is now possible to barely sample speech audio at 720bps[1]). I wanted to convince him to give a talk about his work at the NAILUG[2]. Unfortunately, this could not happen.
 
-Outside, technology, he was a fun dude to hang around with. The one time we went out, he did some really crazy things(like jump on some tank) which got him into trouble, and gave us some hearty laughs. I'm sure that stories about him from friends and family are endless. I hope that in this repo, friends and family, can remember through his own words what he enjoyed. 
+Outside, technology, he was a fun dude to hang around with. The one time we went out, he did some really crazy things(like jump on some tank) which got him into trouble, and gave us some hearty laughs. I'm sure that stories about him from friends and family are endless. I hope that in this repo, friends and family, can remember, through his own words, what he loved doing.
 
 # References:
-[0] http://www.httrack.com/
-[1] https://auphonic.com/blog/2018/06/01/codec2-podcast-on-floppy-disk/
-[2] https://nairobilug.or.ke/
+[0] http://www.httrack.com/  
+[1] https://auphonic.com/blog/2018/06/01/codec2-podcast-on-floppy-disk/  
+[2] https://nairobilug.or.ke/  
