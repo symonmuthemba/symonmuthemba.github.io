@@ -1,7 +1,7 @@
 # Introduction
 This is no standard README.md. I'm writing it with a heavy heart as I do this. This is a mirror of Symon's website who passed away on 2 July 2018. The reason for this mirror is for permanency; let old friends know what kind of things he enjoyed and perhaps be a reference to the young ones(when they grow up) what kind of dude Symon was. My goal for creating this mirror is to remind us all what kind of cool dude Symon was, celebrate his life through words he wrote. For us in the "technical" fields, this should always encourage us to never be afraid to "get technical".
 
-This document alos describes how the site was mirrored. At the end, I'll share some things about him.
+This document also describes how the site was mirrored. At the end, I'll share some things about him.
 
 Thanks, Symo, it's been chill. Let's get technical...
 
